@@ -1,6 +1,6 @@
 module.exports = {
   //////////////////////////
-  token: "MTExOTU1NTM3NjQ2NDAxNTQwMg.GXU0Dp.DhlQ4lBxlHKXz0UpZ8oHBRkZ2GmEEz3YEezjK0", //WRITE YOUR BOT TOKEN
+  token: "", //WRITE YOUR BOT TOKEN
   botStatus: "RoxenCraft", //WRITE YOUR BOT STATUS.
   log: "", //log kanal id yazın
   aways: [
